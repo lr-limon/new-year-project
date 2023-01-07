@@ -91,16 +91,16 @@
 }
 
 .plan-content-title {
-    font-size: 30px;
-    font-weight: 700;
+    font-size: 25px;
+    font-weight: 500;
     color: #151414;
     margin-top: 24px;
     margin-bottom: 16px;
 }
 
 .plan-content-description {
-    font-weight: 500;
-    font-size: 25px;
+    font-weight: 400;
+    font-size: 20px;
     color: #737272;
 
 }
@@ -157,7 +157,7 @@
     font-weight: 700;
     font-size: 40px;
     padding-top: 15px;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
     color: #dc0e0e;
 }
 
