@@ -1,5 +1,6 @@
 * {
     margin: 0px;
+    font-family: 'Work Sans', sans-serif;
 }
 
 /* <!-- header content --> */
@@ -48,10 +49,9 @@
     margin: 130px 250px;
 }
 
-.previous-image {
-    /* background: #F15B22; */
-    /* background-blend-mode: #F15B22; */
-}
+/* .previous-image {
+    
+} */
 
 .previous-container-title {
     font-weight: 700;
@@ -104,6 +104,9 @@
     color: #737272;
 
 }
+.check{
+    color: #16D887;
+}
 
 /* section gardient */
 .gardient {
@@ -137,6 +140,39 @@
     border: 0;
     border-radius: 10px;
     margin-top: 24px;
+}
+
+/* about my degree */
+.degree{
+    width: 1070px;
+    height: 300px;
+    margin: 0px 230px 130px 230px;
+    background-color: #2f2d2c;
+    border-radius: 10px;
+}
+.my-degree{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    padding-top: 15px;
+    margin-bottom: 50px;
+    color: #dc0e0e;
+}
+.my-degree-container{
+    display: flex;
+    gap: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.my-degree-content{
+    padding: 20px;
+    border: 1px solid green;
+    border-radius: 35px;
+    background-color: #F3F3F3;
+}
+.degree-name{
+    font-weight: 500;
+    font-size: 40px;
 }
 
 /* footer */
