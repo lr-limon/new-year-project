@@ -104,7 +104,8 @@
     color: #737272;
 
 }
-.check{
+
+.check {
     color: #16D887;
 }
 
@@ -143,14 +144,15 @@
 }
 
 /* about my degree */
-.degree{
+.degree {
     width: 1070px;
     height: 300px;
     margin: 0px 230px 130px 230px;
     background-color: #2f2d2c;
     border-radius: 10px;
 }
-.my-degree{
+
+.my-degree {
     text-align: center;
     font-weight: 700;
     font-size: 40px;
@@ -158,21 +160,24 @@
     margin-bottom: 50px;
     color: #dc0e0e;
 }
-.my-degree-container{
+
+.my-degree-container {
     display: flex;
     gap: 50px;
     margin-left: 40px;
     margin-right: 40px;
 }
-.my-degree-content{
+
+.my-degree-content {
     padding: 20px;
     border: 1px solid green;
     border-radius: 35px;
     background-color: #F3F3F3;
 }
-.degree-name{
+
+.degree-name {
     font-weight: 500;
-    font-size: 40px;
+    font-size: 25px;
 }
 
 /* footer */
@@ -207,7 +212,8 @@
     font-size: 16px;
     color: #FFFFFF;
 }
-.footer-future-phone{
+
+.footer-future-phone {
     font-size: 16px;
     color: #FFFFFF;
     margin-top: 16px;
